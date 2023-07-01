@@ -1,4 +1,4 @@
-Program To Check If The Give Number is Palindromr or not
+Program To Check If The Give Number is Palindrome or not
 
 #include<stdio.h>
 int main()
